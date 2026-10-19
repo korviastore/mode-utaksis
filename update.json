@@ -1,0 +1,8 @@
+{
+  "version": "5.2.17",
+  "installer": "https://github.com/korviastore/mode-utaksis/releases/download/v5.2.17/MODE_UTAKSIS_Setup_v5.2.17_x64.exe",
+  "sha256": "b1d6982b8bd272aed4d34d21f89613f56deb3473d079ef610a4c631cf944f768",
+  "size": 386778276,
+  "notes": "MODE ÜTAKSİS için yeni sürüm hazır.",
+  "mandatory": false
+}
