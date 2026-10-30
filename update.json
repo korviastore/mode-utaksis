@@ -1,40 +1,40 @@
 {
-  "version": "5.8.3",
-  "installer": "https://github.com/korviastore/mode-utaksis/releases/download/v5.8.3/MODE_UTAKSIS_Setup_v5.8.3_x64.exe",
-  "sha256": "b6acffb954ee34238e5be42b38f23436bbe457b7950ae4f02da364a8cf5f5552",
-  "size": 407269742,
+  "version": "5.10.0",
+  "installer": "https://github.com/korviastore/mode-utaksis/releases/download/v5.10.0/MODE_UTAKSIS_Setup_v5.10.0_x64.exe",
+  "sha256": "e0b753c0e385b813adaf2f348af394a4771ed0c4f1e01a2cfe7dfc3bc55738de",
+  "size": 407236760,
   "notes": "MODE Client güncellemesi",
   "mandatory": false,
   "deltas": [
     {
-      "base": "5.6.0",
-      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.8.3/MODE_Delta_5.6.0_to_5.8.3.zip",
-      "sha256": "fb21191dae4b089c0823c14cd3c82847b4951202b685818d17362736fb59e8a9",
-      "size": 27668520
-    },
-    {
-      "base": "5.7.0",
-      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.8.3/MODE_Delta_5.7.0_to_5.8.3.zip",
-      "sha256": "45e417a94d88c7382d8e8ca08184962aaaf2ea3da44135d049985c3be64b2fdd",
-      "size": 26810674
-    },
-    {
       "base": "5.8.0",
-      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.8.3/MODE_Delta_5.8.0_to_5.8.3.zip",
-      "sha256": "388c1eb23dca68fd53a5c5658a78f3c96867117878eccd28c9e667d0f55f06d2",
-      "size": 26810673
+      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.10.0/MODE_Delta_5.8.0_to_5.10.0.zip",
+      "sha256": "e216d43c909ca6db4b3a0ebe5b287b209493b8baa736e92c685fb24240a46aa7",
+      "size": 26832739
     },
     {
       "base": "5.8.1",
-      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.8.3/MODE_Delta_5.8.1_to_5.8.3.zip",
-      "sha256": "9c44323553f4ea02cd7eea24f0df42ff3d83cb1412c43e55f71ffe5adb511df0",
-      "size": 26810673
+      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.10.0/MODE_Delta_5.8.1_to_5.10.0.zip",
+      "sha256": "2a9190b198653ffe9a34a1c66524629c1c91518acf08921098dcc44b85b087d8",
+      "size": 26832739
     },
     {
       "base": "5.8.2",
-      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.8.3/MODE_Delta_5.8.2_to_5.8.3.zip",
-      "sha256": "cd1fecef20238f26ec57b0cdddc6a71ac9033769275126f339ee6cf075bcd643",
-      "size": 26810673
+      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.10.0/MODE_Delta_5.8.2_to_5.10.0.zip",
+      "sha256": "667bb1757f4c9ced72186037ae1f2c1710cfdffe868b6793c77ab717d2b95e23",
+      "size": 26832739
+    },
+    {
+      "base": "5.8.3",
+      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.10.0/MODE_Delta_5.8.3_to_5.10.0.zip",
+      "sha256": "16ad2c7f4a329714560e19b44b1d2063e14abc057dd743025651cf9ee0a9b260",
+      "size": 26832739
+    },
+    {
+      "base": "5.9.0",
+      "url": "https://github.com/korviastore/mode-utaksis/releases/download/v5.10.0/MODE_Delta_5.9.0_to_5.10.0.zip",
+      "sha256": "a6e0fc8a5db7b5b2394b8926725cc9af13cb9d8967c032893836eac32241b1c1",
+      "size": 26832739
     }
   ]
 }
